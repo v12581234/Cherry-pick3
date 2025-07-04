@@ -3,5 +3,7 @@ public class main {
         System.out.println("Hello World");
         System.out.println("123");
         System.out.println("123345");
+        int a=1;
+  
     }
 }
